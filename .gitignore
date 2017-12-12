@@ -43,3 +43,4 @@ DerivedDataCache/*
 # Plugins
 Plugins/RunebergVRPLugin/Binaries/*
 Plugins/RunebergVRPLugin/Intermediate/*
+RunebergVR_TESTMAP/Intermediate/Build/
