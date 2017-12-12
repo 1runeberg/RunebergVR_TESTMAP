@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.17",
+	"EngineAssociation": "4.18",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -8,6 +8,17 @@
 			"Name": "RunebergVRPlugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4dfd0c5b4c97427c860bd2cf7c207136"
+		},
+		{
+			"Name": "DatasmithCADImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "DatasmithImporter",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	]
 }
